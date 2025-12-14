@@ -2,8 +2,6 @@
 
 ## 🌐 Overview
 
-![image.png](images/image.png)
-
 This repository demonstrates how to **design, implement, and operate a modern data warehouse** using a suite of open-source Apache tools. 
 
 This project involves:
@@ -213,7 +211,3 @@ The DAG definition is located at: `dags/etl_dag.py`
 It coordinates the extraction, transformation, and loading processes across the **Bronze**, **Silver**, and **Gold** layers, ensuring tasks are executed in the correct order and on schedule.
 
 ---
-
-### **🛡️ License**
-
-You are free to use, modify, and share this project with proper attribution.
